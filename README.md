@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">Resourceful, creative full-stack web developer with a deep interest in machine learning.</h3>
 
-- 👨‍💻 Some of my projects are available at [ahmedtechs.netlify.app](ahmedtechs.netlify.app)
+<!-- - 👨‍💻 Some of my projects are available at [ahmedtechs.netlify.app](ahmedtechs.netlify.app) -->
 
 - 💬 Ask me about **JavaScript, Node.js, and React**
 
