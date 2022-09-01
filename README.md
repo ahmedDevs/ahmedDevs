@@ -25,6 +25,6 @@ As a software developer, I often think of myself as an interpreter. Communicatin
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeddevs&theme=radical" alt="ahmeddevs" /></p>
 
-<img src="https://raw.githubusercontent.com/jaypavasiya/jaypavasiya/output/github-contribution-grid-snake-dark.svg">
+<!-- <img src="https://raw.githubusercontent.com/jaypavasiya/jaypavasiya/output/github-contribution-grid-snake-dark.svg"> -->
 
   
