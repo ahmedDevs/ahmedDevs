@@ -16,7 +16,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmeddevs&show_icons=true&locale=en&layout=compact" alt="ahmeddevs" /></p> 
 
-<p><img align="center" src="https://camo.githubusercontent.com/bf03a787416fba662909081cea9d8719b970e756e6daf80b2bd0ad575b61455e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6e61746173686170657474696e6765722673686f775f69636f6e733d74727565266c6f63616c653d656e267468656d653d636f62616c74" alt="ahmeddevs" /></p>
+<p><img align="center" src="![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedDevs&show_icons=true&theme=radical)" alt="ahmeddevs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeddevs&" alt="ahmeddevs" /></p>
 <img src="https://raw.githubusercontent.com/jaypavasiya/jaypavasiya/output/github-contribution-grid-snake-dark.svg">
