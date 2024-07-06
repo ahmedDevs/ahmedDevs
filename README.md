@@ -20,10 +20,12 @@ As a software developer, I often think of myself as an interpreter. Communicatin
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmeddevs&show_icons=true&locale=en&layout=compact&theme=radical" alt="ahmeddevs" /></p> 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedDevs&show_icons=true&theme=radical" alt="ahmeddevs" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedDevs&show_icons=true&theme=radical" alt="ahmeddevs" /></p> -->
+
+
 <!-- ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedDevs&show_icons=true&theme=radical) -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeddevs&theme=radical" alt="ahmeddevs" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeddevs&theme=radical" alt="ahmeddevs" /></p> -->
  
 <!-- <img src="https://raw.githubusercontent.com/jaypavasiya/jaypavasiya/output/github-contribution-grid-snake-dark.svg"> -->
    
