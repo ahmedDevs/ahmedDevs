@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A Project Manager with a deep interest in travel technologies </h3>
-<p>I am a Project Manager with a strong technical background, focused on leading digital products from idea to execution. I enjoy working at the intersection of business and technology, aligning stakeholders, coordinating cross-functional teams, and translating business needs into structured execution plans that deliver measurable results.
+<h3 align="center">A Senior software engineer with a deep interest in AI </h3>
+<p>I have a strong technical background, focused on leading digital products from idea to execution. I enjoy working at the intersection of business and technology, aligning stakeholders, coordinating cross-functional teams, and translating business needs into structured execution plans that deliver measurable results.
 With hands-on experience in software development, APIs, databases, system integrations, and product delivery, I bring a technical perspective that helps bridge the gap between engineering teams and business objectives. I enjoy solving complex problems, improving processes, and delivering products that create real value.
 I often think of myself as an interpreter, understanding business needs, translating them into technical direction, and helping teams execute effectively. My journey through business, sales, software development, and project leadership has shaped how I approach problem-solving, collaboration, and delivery.</p>
 
